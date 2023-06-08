@@ -1,5 +1,5 @@
 function [R, U, Psi, ell] = symmetric_capillary_annular_interpolation_func(a,b,d,psia_actual,psib_actual,kappa,k)
-% Ray Treinen, April 2022
+% Jonas Haug and Ray Treinen, June 2023
 % 
 % Compute capillary surfaces as an initial guess to be used by the strict 2-zone
 % and the 2-zone-to-3-zone multiscale codes
